@@ -1,6 +1,6 @@
 # Hi, I'm Haziq Mubashir 
 
-**BS Data Science student | ML/AI Engineer**
+**BS Data Science student | Aspiring ML/AI Engineer**
 
 I build and experiment with **Machine Learning, Data Science, and AI applications**, with a focus on turning data into practical solutions.
 
