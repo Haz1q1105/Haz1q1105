@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Haziq Mubashir 
 
-<!--
-**Haz1q1105/Haz1q1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BS Data Science student | ML/AI Engineer**
 
-Here are some ideas to get you started:
+I build and experiment with **Machine Learning, Data Science, and AI applications**, with a focus on turning data into practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Languages:** Python, C++, SQL, Kotlin, Java
+**ML/AI:** Scikit-learn, TensorFlow, PyTorch
+**Data:** Pandas, NumPy, Power BI, Tableau
+**Tools:** Git, GitHub, HuggingFace, Jupyter, Google Colab, Langchain
+
+### Currently
+
+Learning and building projects around **Machine Learning, Generative AI, and AI-powered applications**.
+
+### 📫 Connect
+
+* **LinkedIn:** www.linkedin.com/in/haziq-mubashir-869836345
+* **Email:** haziqmubi667@gmail.com
