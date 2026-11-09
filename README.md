@@ -6,7 +6,7 @@ I build and experiment with **Machine Learning, Data Science, and AI application
 
 ### Tech Stack
 
-**Languages:** Python, C++, SQL, Kotlin, Java
+**Languages:** Python, C++, SQL
 **ML/AI:** Scikit-learn, TensorFlow, PyTorch
 **Data:** Pandas, NumPy, Power BI, Tableau
 **Tools:** Git, GitHub, HuggingFace, Jupyter, Google Colab, Langchain
